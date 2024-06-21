@@ -23,16 +23,16 @@ Project that aims to use Machine Learning to find the ideal impeller for an agit
 
 ## Variables involved
 
-  - θ: 
-  - D/T: 
-  - W/T: 
+  - θ: Inclination of the blades in relation to the horizontal plane;
+  - D/T: Ratio between impeller diameter and tank diameter;
+  - W/T: Ratio between blade width and tank diameter;
   - NB: Number of blades;
-  - Pjs: 
-  - Ne: Air intake speed;
+  - Pjs: Power at just suspensed speed;
+  - Ne: Air entrainement speed;
   - CH: Solid cloud height;
   - A%: Percentage of solids in a two-dimensional view;
-  - RDS: Relative standard deviation;
-  - Ycm: Center of mass.
+  - RSD: Relative standard deviation;
+  - Ycm: Center of mass in the vertical axis.
 
 ## Author
 
